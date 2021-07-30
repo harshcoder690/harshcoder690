@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Jain <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="75"></h1>
-<h3 align="center"> sophomore at MAIT and a passionate Android Developer, Competitive coder from India.</h3>
+<h3 align="center"> sophomore at MAIT and a passionate Android Developer,Web Developer and Competitive coder from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshcoder690&label=Profile%20views&color=0e75b6&style=flat" alt="harshcoder690" /> </p>
 

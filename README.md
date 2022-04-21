@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Jain <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="75"></h1>
-<h3 align="center"> Computer science student at MAIT and a passionate Android Developer,Web Developer and Competitive coder from India.</h3>
+<h3 align="center"> Computer science student at MAIT and a passionate App Developer,Web Developer and Competitive coder from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshcoder690&label=Profile%20views&color=0e75b6&style=flat" alt="harshcoder690" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full-stack web development**
 
-- 💬 Ask me about **Java , Kotlin and Android development**
+- 💬 Ask me about **React, Redux and frontend development**
 
 - 📫 How to reach me **harshjain75641@gmail.com**
 <br>
